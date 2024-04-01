@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>咕噜的小屋</title>
-    <link>https://example.org/categories/</link>
-    <description></description>
+    <link>https://polytoo.github.io/categories/</link>
+    <description>John Doe&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://polytoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
